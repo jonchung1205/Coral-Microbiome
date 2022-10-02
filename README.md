@@ -1,2 +1,2 @@
 # Coral-Microbiome
-Code and files associated with meta analysis on coral microbial shifts under heat stress
+Repository for the code that was used to analyze coral microbiome associated symbionts under heat stress. As climate change exacerbates, corals are at great risk of bleaching due to increasing oceanic temperatures. Due to the complex dynamics of the microbiome in maintaing overall coral health, overall changes under increase oceanic temperature conditions were studied to identify key bacteria in the microbiome that could potentially aid in heat tolerace for corals.
